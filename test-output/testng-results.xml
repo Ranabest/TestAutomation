@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="53601" started-at="2019-01-03T02:03:42Z" finished-at="2019-01-03T02:04:35Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="53601" started-at="2019-01-03T02:03:42Z" finished-at="2019-01-03T02:04:35Z">
+      <class name="com.crm.qa.testcases.NewContactPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.crm.qa.testcases.NewContactPageTest@7e0b0338]" name="setUp" is-config="true" duration-ms="12283" started-at="2019-01-03T02:03:43Z" finished-at="2019-01-03T02:03:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="createNew(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.crm.qa.testcases.NewContactPageTest@7e0b0338]" name="createNew" duration-ms="2363" started-at="2019-01-03T02:03:55Z" data-provider="XXX" finished-at="2019-01-03T02:03:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Tom]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Brady]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Wakefern]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[manager]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Deli]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[2.034502567E9]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[2.034567869E9]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNew -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.NewContactPageTest@7e0b0338]" name="tearDown" is-config="true" duration-ms="0" started-at="2019-01-03T02:03:57Z" finished-at="2019-01-03T02:03:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.crm.qa.testcases.NewContactPageTest@7e0b0338]" name="setUp" is-config="true" duration-ms="10986" started-at="2019-01-03T02:03:57Z" finished-at="2019-01-03T02:04:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="createNew(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.crm.qa.testcases.NewContactPageTest@7e0b0338]" name="createNew" duration-ms="2606" started-at="2019-01-03T02:04:08Z" data-provider="XXX" finished-at="2019-01-03T02:04:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[john]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Cingary]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Grade A]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Owner]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Front end]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[2.034534576E9]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[2.036578494E9]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNew -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.NewContactPageTest@7e0b0338]" name="tearDown" is-config="true" duration-ms="0" started-at="2019-01-03T02:04:11Z" finished-at="2019-01-03T02:04:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.crm.qa.testcases.NewContactPageTest@7e0b0338]" name="setUp" is-config="true" duration-ms="10993" started-at="2019-01-03T02:04:11Z" finished-at="2019-01-03T02:04:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="createNew(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.crm.qa.testcases.NewContactPageTest@7e0b0338]" name="createNew" duration-ms="2553" started-at="2019-01-03T02:04:22Z" data-provider="XXX" finished-at="2019-01-03T02:04:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Tom]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Cingary]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Shoprite]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Asst. owner]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[meat]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[2.345679876E9]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[2.34567987E9]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNew -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.NewContactPageTest@7e0b0338]" name="tearDown" is-config="true" duration-ms="0" started-at="2019-01-03T02:04:24Z" finished-at="2019-01-03T02:04:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.crm.qa.testcases.NewContactPageTest@7e0b0338]" name="setUp" is-config="true" duration-ms="10981" started-at="2019-01-03T02:04:24Z" finished-at="2019-01-03T02:04:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyOwnerTest()[pri:1, instance:com.crm.qa.testcases.NewContactPageTest@7e0b0338]" name="verifyOwnerTest" duration-ms="65" started-at="2019-01-03T02:04:35Z" finished-at="2019-01-03T02:04:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyOwnerTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.NewContactPageTest@7e0b0338]" name="tearDown" is-config="true" duration-ms="0" started-at="2019-01-03T02:04:35Z" finished-at="2019-01-03T02:04:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.crm.qa.testcases.NewContactPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
